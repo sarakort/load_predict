@@ -1,2 +1,2 @@
 # load_predict
-classification load prediction
+classification loan prediction
